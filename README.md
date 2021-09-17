@@ -8,6 +8,7 @@ Undergraduate student at Utah State University with an emphasis on cellular biol
 
 
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNguyen124&langs_count=5&theme=tokyonight)]()
 
 
 <!---
