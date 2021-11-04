@@ -11,6 +11,7 @@ Undergraduate student at Utah State University with an emphasis on cellular biol
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNguyen124&langs_count=5&theme=tokyonight)]()
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndreNguyen124%2FAndreNguyen124&count_bg=%234B6587&title_bg=%23000000&icon=&icon_color=%23000000&title=Visitors&edge_flat=false"/></a>
 
 <!---
 AndreNguyen124/AndreNguyen124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
