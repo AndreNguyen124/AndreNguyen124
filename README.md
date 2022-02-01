@@ -12,6 +12,13 @@ Undergraduate student at Utah State University with an emphasis on cellular biol
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndreNguyen124%2FAndreNguyen124&count_bg=%234B6587&title_bg=%23000000&icon=&icon_color=%23000000&title=Visitors&edge_flat=false"/></a>
 
+
+
+
+<iframe src="https://open.spotify.com/embed/playlist/156hUyE9EYs8ElKBcLsFir" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+
 <!---
 AndreNguyen124/AndreNguyen124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
