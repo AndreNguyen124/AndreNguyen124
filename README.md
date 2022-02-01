@@ -7,8 +7,6 @@ Undergraduate student at Utah State University with an emphasis on cellular biol
 <!--   <img alt="GIF" src="https://github.com/AndreNguyen124/AndreNguyen124/blob/main/doge.gif" width="500" height="320" class = "center" /> -->
 
 
-<iframe src="https://open.spotify.com/embed/track/36nutPAJFggPeddyVWDFm9?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNguyen124&langs_count=5&theme=tokyonight)]()
 
