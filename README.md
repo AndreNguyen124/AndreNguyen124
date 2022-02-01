@@ -15,7 +15,7 @@ Undergraduate student at Utah State University with an emphasis on cellular biol
 
 
 
-<iframe src="//open.spotify.com/embed/playlist/156hUyE9EYs8ElKBcLsFir" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<!-- <iframe src="//open.spotify.com/embed/playlist/156hUyE9EYs8ElKBcLsFir" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> -->
 
 
 
