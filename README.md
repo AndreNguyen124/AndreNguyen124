@@ -96,7 +96,9 @@
 
 
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+
+[![AndreNguyen124 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreNguyen124)](https://github.com/AndreNguyen124/github-readme-stats)
 
 ## My Certifications :arrow_down:
 
