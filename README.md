@@ -100,7 +100,7 @@
 
 [![AndreNguyen124 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreNguyen124)](https://github.com/AndreNguyen124/github-readme-stats)
 
-## My Certifications :arrow_down:
+<!-- ## My Certifications :arrow_down:
 
 - [Red Hat Certified System Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
 - [Red Hat Certified Specialist in Ansible Automation](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
@@ -115,5 +115,5 @@
 | [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
 | [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
 
-:star: From [DiptoChakrabarty](https://github.com/DiptoChakrabarty/)
+:star: From [DiptoChakrabarty](https://github.com/DiptoChakrabarty/) -->
 
