@@ -1,15 +1,15 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Andre Nguyen](https://www.linkedin.com/in/andre-tu-nguyen/) :blush:	 . Currently I am a fourth year student from Utah State University in Computer Science :satellite:
+* I am [Andre Nguyen](https://www.linkedin.com/in/andre-tu-nguyen/). I am a fourth year student from Utah State University in Computer Science :desktop_computer:	
 
-* I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
+* I am a software test engineer at @Capgemini. I was previously a software engineer intern at Juniper systems :fountain_pen:. 
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
+<!-- * I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: . -->
 
-* I am currently brushing up my skills and plan to learn Golang and Terraform .
+<!-- * I am currently brushing up my skills and plan to learn Golang and Terraform . -->
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+<!-- * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb: -->
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
