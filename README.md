@@ -3,17 +3,20 @@
 
 * I am [Andre Nguyen](https://www.linkedin.com/in/andre-tu-nguyen/). I am a fourth year student from Utah State University in Computer Science :desktop_computer:	
 
-* I am a software test engineer at @Capgemini. I was previously a software engineer intern at Juniper systems :fountain_pen:. 
+* I am a software test engineer at @Capgemini. I was previously a software engineer intern at Juniper systems :fountain_pen:
 
-<!-- * I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: . -->
+* I have experience with mobile application development to web development. At the moment, I am refreshing my skills in Docker and Amazon Web Services 
 
-<!-- * I am currently brushing up my skills and plan to learn Golang and Terraform . -->
+* I am excited to learn more about Golang and cloud development
 
-<!-- * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb: -->
+* I am open to doing contract work and love to learn more about different technology stacks. 
+
+* Connect with me on :star2: [LinkedIn](https://www.linkedin.com/in/andre-tu-nguyen/) :star2:
+
+* You can check out my recent projects here :books:
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
 
 
 ## Tech Stack :computer:
