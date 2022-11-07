@@ -5,17 +5,17 @@
 
 * I am a software test engineer at @Capgemini. I was previously a software engineer intern at Juniper systems :fountain_pen:
 
-* I have experience with mobile application development to web development. At the moment, I am refreshing my skills in Docker and Amazon Web Services 
+* I have experience with mobile application development to web development. At the moment, I am refreshing my skills in Docker and Amazon Web Services :iphone:	
 
-* I am excited to learn more about Golang and cloud development
+* I am excited to learn more about Golang, Swift, and cloud development :cloud:	
 
 * I am open to doing contract work and love to learn more about different technology stacks. 
 
-* Connect with me on :star2: [LinkedIn](https://www.linkedin.com/in/andre-tu-nguyen/) :star2:
+* :star2: Connect with me on :star2: [LinkedIn](https://www.linkedin.com/in/andre-tu-nguyen/) :star2:
 
 * You can check out my recent projects here :books:
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+<!-- * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md) -->
 
 
 
